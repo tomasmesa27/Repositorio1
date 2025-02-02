@@ -25,4 +25,4 @@ print(temporal)
 frutas = tuple(temporal)
 print(frutas)
 
-print("Hello","World")
+#print("Hello","World")
