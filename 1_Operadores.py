@@ -1,4 +1,4 @@
-"""
+
 # Introducción
 print("Hola mundo")
 # comentario
@@ -56,7 +56,7 @@ print(num, "x 7 =", 7*num)
 print(num, "x 8 =", 8*num)
 print(num, "x 9 =", 9*num)
 print(num, "x 10 =", 10*num)
-"""
+
 
 #a = not(5 == 5 or 8 > 10)
 #print(a)
