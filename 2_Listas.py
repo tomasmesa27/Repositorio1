@@ -99,4 +99,4 @@ print(lista1)
 palabra = "amigos"
 print(palabra[0])
 print(len(palabra))
-print(palabra[2:5])
+#print(palabra[2:5])
