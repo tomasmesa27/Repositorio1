@@ -52,4 +52,4 @@ print(carros)
 #carros.remove('Mazda')
 #print(carros)
 
-#print(carros.union(colores))
+print(carros.union(colores))
