@@ -1,5 +1,7 @@
 # LISTAS
 
+# Ordered and changeable
+
 # cantidad de elementos en la lista
 
 frutas = ["naranja", "papaya", "pera"]

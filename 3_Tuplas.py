@@ -1,5 +1,7 @@
 # TUPLAS
 
+# Ordered and unchangeable
+
 # Las tuplas son con paréntesis
 frutas = ("fresa","papaya","naranja","papaya")
 frutas2 = ["fresa","papaya","naranja"]
